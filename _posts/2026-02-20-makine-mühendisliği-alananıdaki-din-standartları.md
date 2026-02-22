@@ -3,13 +3,16 @@ layout: post
 title:  "Makine Mühendisliği alananıdaki DIN Standartları"
 author: hberkayaktas
 categories: [ eğitim, Standartlar, DIN, DIN Standarları ]
-image: assets/images/post_images/DINStandarlari.png
+image: assets/post_images/DINStandarlari.png
 tags: [featured,  minikube, kubernetes, container, orchestration]
 ---
 
 
-Makine Mühendisliği alananıdaki DIN Standartları
+# Makine Mühendisliği alananıdaki DIN Standartları
 
+    Makine tasarımı ve teknik resim süreçlerinde kullanılan DIN standartları; boyutlandırma, toleranslandırma, yüzey kalitesi, geçme sistemleri, bağlantı elemanları, dişli hesapları, güç aktarım elemanları, malzeme seçimi ve kaynak sembolleri gibi mühendisliğin temel yapı taşlarını sistematik bir çerçeveye oturtur. Bu standartlar; tasarımın hesaplanabilir, üretilebilir, ölçülebilir ve denetlenebilir olmasını sağlar. DIN ve harmonize edilmiş DIN EN ISO normları sayesinde farklı firmalar, atölyeler ve ülkeler arasında teknik iletişim ortak bir dil üzerinden yürütülür. Bu listede yer alan standartlar; teknik ressamdan tasarım mühendisine kadar mekanik disiplininde çalışan herkes için güvenilir, karşılaştırılabilir ve endüstriyel uygulamaya uygun tasarım altyapısını temsil eder.
+
+    
 1️⃣ Teknik Resim ve Çizim Kuralları
 ===================================
 
