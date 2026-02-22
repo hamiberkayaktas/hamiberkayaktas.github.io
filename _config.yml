@@ -20,12 +20,13 @@ plugins:
   
 authors:
     hberkayaktas:
-      name:           Hami BerKay Aktaş
+      name:           Hami Berkay AKTAŞ
       site:           https://www.hamiberkayaktas.github.io
       avatar:         assets/images/avatar1.jpg
       bio:            "Makine Mühendisliğine dair tablolar, şemalar ve incelemeler paylaşıyorum."
       email:          hberkayaktas@gmail.com
       twitter:        https://twitter.com/hberkayaktas
+      linkedin:       https://www.linkedin.com/in/hberkayaktas/
 
     # jane:
     #   name:           Jane
