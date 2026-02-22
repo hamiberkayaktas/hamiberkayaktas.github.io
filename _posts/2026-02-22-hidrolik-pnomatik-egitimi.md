@@ -3,8 +3,8 @@ layout: post
 title:  "HİDROLİK ve PNÖMATİK SİSTEMLER"
 author: hberkayaktas
 categories: [ Hidrolik, Pnomatik, Eğitim ]
-image: assets/images/kubernetes.png
-tags: [featured, hidrolik, pnomatik, eğitim]
+image: assets/images/hidro-pno.png
+tags: [sticky,featured, hidrolik, pnomatik, eğitim]
 ---
 
 **HİDROLİK ve PNÖMATİK SİSTEMLER --- KAPSAMLI MÜHENDİSLİK REHBERİ**
