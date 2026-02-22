@@ -6,6 +6,10 @@ categories: [ eğitim, Standartlar, DIN, DIN Standarları ]
 image: assets/images/post_images/DINStandarlari.png
 tags: [featured,  minikube, kubernetes, container, orchestration]
 ---
+
+
+Makine Mühendisliği alananıdaki DIN Standartları
+
 1️⃣ Teknik Resim ve Çizim Kuralları
 ===================================
 
