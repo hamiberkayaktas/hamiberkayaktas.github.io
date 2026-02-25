@@ -1,0 +1,171 @@
+---
+layout: post
+title:  "1.1.2 Daniel Bernoulli Prensibi"
+author: hberkayaktas
+categories: [ Hidrolik, Pnomatik, Eğitim ]
+image: assets/images/hidro-pno.png
+tags: [featured, hidrolik, pnomatik, eğitim]
+---
+**1.1.2 Daniel Bernoulli Prensibi**
+===================================
+
+* * * * *
+
+**1.1.2.1 Enerjinin Korunumu Temeli**
+-------------------------------------
+
+Bernoulli prensibi, akışkanlar mekaniğinde **enerjinin korunumu yasasının** akışkanlara uygulanmış halidir.
+
+İdeal (viskozitesiz), sıkıştırılamaz ve kararlı akış için bir akım çizgisi boyunca:
+
+![Bernoulli]({{ site.baseurl }}/assets/post_images/bernaulli1.png)
+
+Bu ifade, akışkanın üç enerji bileşeninin toplamının sabit olduğunu söyler:
+
+1.  **Basınç Enerjisi**
+
+2.  **Kinetik Enerji**
+
+3.  **Potansiyel Enerji**
+
+* * * * *
+
+**1.1.2.2 Denklem Bileşenleri**
+-------------------------------
+
+-   P → Statik basınç (Pa)
+
+-   1/2ρV^2 → Dinamik basınç (hızdan kaynaklı enerji)
+
+-   ρgh\rho g hρgh → Yükseklik (potansiyel) enerjisi
+
+-   ρ → Yoğunluk (kg/m³)
+
+-   V → Akış hızı (m/s)
+
+-   h → Referans seviyeye göre yükseklik (m)
+
+* * * * *
+
+**1.1.2.3 Hidrolik Sistemlerde Sadeleşmiş Form**
+------------------------------------------------
+
+Hidrolik sistemlerde genellikle:
+
+-   Yükseklik farkı ihmal edilir
+
+-   Yoğunluk sabit kabul edilir
+
+Bu durumda denklem sadeleşir:
+
+![Bernoulli2]({{ site.baseurl }}/assets/post_images/bernaulli2.png)
+
+Yani:
+
+> Hız artarsa basınç düşer.
+
+* * * * *
+
+**1.1.2.4 Venturi Etkisi**
+--------------------------
+
+Boru daraldığında:
+
+-   Alan azalır
+
+-   Süreklilik gereği hız artar
+
+-   Bernoulli gereği basınç düşer
+
+Bu prensip Venturi ölçerlerin temelidir.
+
+* * * * *
+
+**1.1.2.5 Gerçek Akışta Enerji Kaybı**
+--------------------------------------
+
+Gerçek hidrolik sistemlerde viskozite vardır. Bu nedenle Bernoulli denklemi kayıp terimi eklenerek yazılır:
+
+![Bernoulli3]({{ site.baseurl }}/assets/post_images/bernaulli3.png)
+
+Burada:
+
+hkh_khk​ → sürtünme ve lokal kayıplardan doğan enerji kaybı
+
+Bu kayıplar genellikle:
+
+-   Boru sürtünmesi (Darcy-Weisbach)
+
+-   Dirsek, vana, daralma kayıpları
+
+ile hesaplanır.
+
+* * * * *
+
+**1.1.2.6 Hidrolik Tasarımda Yorumu**
+-------------------------------------
+
+Bir hidrolik tasarım mühendisi için Bernoulli şunları ifade eder:
+
+1.  Debi sabit → hız artışı → statik basınç düşüşü
+
+2.  Yüksek hız → daha fazla basınç kaybı
+
+3.  Basınç kaybı → ısıya dönüşen enerji
+
+4.  Isı artışı → yağ viskozitesinin düşmesi
+
+Bu zincirleme etki, sistem verimini doğrudan etkiler.
+
+* * * * *
+
+**1.1.2.7 Sayısal Örnek**
+-------------------------
+
+Yağ yoğunluğu: ρ=850kg/m^3
+
+Bir noktada hız 2 m/s'den 6 m/s'ye çıkıyor.
+
+Dinamik basınç değişimi:
+
+![Bernoulli4]({{ site.baseurl }}/assets/post_images/bernaulli4.png)
+
+Yaklaşık **0.136 bar basınç düşüşü** oluşur.
+
+Bu küçük görünse de uzun hatlarda ciddi toplam kayıplara dönüşür.
+
+* * * * *
+
+**1.1.2.8 Pnömatik Sistemlerde Durum**
+--------------------------------------
+
+Hava sıkıştırılabilir olduğu için klasik Bernoulli formu yeterli değildir. Bu durumda:
+
+-   Yoğunluk değişir
+
+-   İzoentropik akış denklemleri gerekir
+
+-   Kritik basınç oranı oluşabilir (choked flow)
+
+Pnömatik tasarımda basınç-hız ilişkisi hidrolikten daha karmaşıktır.
+
+* * * * *
+
+**1.1.2.9 Mühendislik Perspektifi**
+-----------------------------------
+
+Bernoulli prensibi:
+
+-   Basınç düşümü analizinin temeli
+
+-   Debi ölçümünün temeli
+
+-   Emiş hattı kavitasyon analizinin temeli
+
+-   Venturi vakum jeneratörlerinin temeli
+
+Bir uzman, boru daralmasını gördüğünde otomatik olarak:
+
+> "Hız artacak → statik basınç düşecek → kavitasyon riski olabilir"
+
+şeklinde düşünür.
