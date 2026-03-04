@@ -3,7 +3,7 @@ layout: post
 title:  "Darbe Testi Nedir Nasıl yapılır?"
 author: hberkayaktas
 categories: [ Darbe Testi, Charpy Testi, Eğitim ]
-image: assets/images/hidro-pno.png
+image: assets/images/darbe-testi.png
 tags: [featured, darbe testi, charpy testi, izod testi,eğitim]
 ---
 Darbe Testi Nedir? Nasıl Yapılır?
