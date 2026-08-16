@@ -9,7 +9,7 @@ permalink: "/me.html"
             <!-- Profil -->
             <div class="mb-4">
                 <img 
-                    src="{{ site.baseurl }}/assets/images/avatar.jpg"
+                    src="{{site.baseurl}}/{{author.avatar}}"
                     alt="Berkay Aktaş"
                     class="rounded-circle"
                     width="120"
